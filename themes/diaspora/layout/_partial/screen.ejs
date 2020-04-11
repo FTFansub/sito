@@ -15,14 +15,14 @@
         <div>
             <a class="image-logo" href="/"></a>
 			<% if (theme.local_search.enable){ %>
-			<div class="iconfont icon-search switchsearch" href="/search/" title="搜索"></div>
+			<div class="iconfont icon-search switchsearch" href="/search/" title="<%= __('search') %>"></div>
 			<%}%>
             <div class="iconfont icon-menu switchmenu"></div>
         </div>
     </div>
     <% if ( first ) { %>
     <div id="post0">
-        <p><%- first.date.locale("zh-cn").format("MMMM DD, YYYY") %></p>
+        <p><%- moment(first.date).format('L') %></p>
         <h2><%- link_to(first.path, first.title || config.title, {class: "posttitle"}) %></h2>
         <p class="summary"><%- truncate(strip_html(first.content), {length: 60, omission: '...'}) %></p>
     </div>
