@@ -635,3 +635,8 @@ $(function() {
     console.log("%c Github %c","background:#24272A; color:#ffffff","","https://github.com/Fechin/hexo-theme-diaspora")
 })
 
+function mouseOver(){
+    var audio = $('#cipollino')[0];
+    audio.volume = 0.4;
+    audio.play();
+}
