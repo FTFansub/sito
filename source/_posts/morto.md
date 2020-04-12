@@ -28,7 +28,7 @@ Per questa release abbiamo il vetusto **Sindaco** e l'innominabile **Akron** all
 
 Per quanto riguarda il nuovo sito cipollino si ringraziano il prode **Vrorak** (a cui è stato promesso come pagamento una pizza con i friarelli) e il solito Serhiy.
 
-Ringraziamenti anche agli ex-staffer nelle retrovie che presto cadranno di nuovo nel tunnel: **Franzeskos**,**Belfa**, **Torsten**, **Slade** e a **Lhatan** per il supporto morale (e le bestemmie quando si gioca ad Overwatch).
+Ringraziamenti anche agli ex-staffer nelle retrovie che presto cadranno di nuovo nel tunnel: **Franzeskos**, **Belfa**, **Torsten**, **Slade** e a **Lhatan** per il supporto morale (e le bestemmie quando si gioca ad Overwatch).
 
 Special guest: **Irene** che ringraziamo per il bellissimo banner sul quale vi invito a cliccare per sostenerci.
 
