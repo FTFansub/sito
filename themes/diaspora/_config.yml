@@ -82,6 +82,10 @@ gitalk:
   # Facebook-like distraction free mode
   distractionFreeMode: false
 
+disqus:
+  enable: true
+  shortname: fairytailfansub
+
 # 网站关键字
 keywords: Fechin
 

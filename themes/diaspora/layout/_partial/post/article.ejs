@@ -26,6 +26,9 @@
         <% if (theme.gitalk.enable) {%>
         <%- partial('gitalk', {post: page}) %>
         <%}%>
+        <% if (theme.disqus.enable) {%>
+        <%- partial('disqus', {post: page}) %>
+        <%}%>
     </div>
     <% if (theme.TOC == true){ %>
         <div class='side'>
