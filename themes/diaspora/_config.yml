@@ -44,11 +44,11 @@ hitokoto: false
 
 # 链接(可选:facebook,twitter,github,wechat,email)
 links:
-  facebook: /
-  twitter: /
-  github: /
-  wechat: /img/logo.png
-  email: mailto:xxxx@gmail.com
+  facebook: https://www.facebook.com/GildaFTF/
+  twitter: https://www.facebook.com/GildaFTF/
+  github: https://www.facebook.com/GildaFTF/
+#  wechat: /img/logo.png
+#  email: mailto:xxxx@gmail.com
 
 # 备案
 beian:
