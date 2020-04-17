@@ -103,18 +103,27 @@ deploy:
   branch: master
 
 
-# # minify
-# html_minifier:
-#   enable: true
-#   ignore_error: false
-#   silent: false
-#   exclude:
+# minify
+html_minifier:
+  enable: true
+  ignore_error: false
+  silent: false
+  exclude:
 
-# css_minifier:
-#   enable: true
-#   silent: false
-#   exclude: 
-#     - '*.min.css'
+js_minifier:
+  enable: true
+  mangle: true
+  silent: false
+  output:
+  compress:
+  exclude: 
+    - '*.min.js'
+
+css_minifier:
+  enable: false
+  silent: false
+  exclude: 
+    - '*.min.css'
 
 search:
   path: search.xml
