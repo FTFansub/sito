@@ -1,10 +1,10 @@
 # 头部菜单，title: link
 menu:
   Home: /
-  Categorie: /categories
-  Tags: /tags
-  Archivi: /archives
-  About: /about
+#  Categorie: /categories
+#  Tags: /tags
+# Archivio: /archives
+# About: /about
 
 # 是否显示目录
 TOC: false
@@ -25,7 +25,6 @@ welcome_cover: /img/welcome-cover.jpg
 
 # 默认文章封面图（随机调用,支持外链）
 cover:
-  - /img/cover.jpg
   - /img/welcome-cover.jpg
 
 # 是否使用mathjax
@@ -34,7 +33,7 @@ mathjax: false
 # 是否关闭默认滚动条
 scrollbar: true
 
-# 本地搜索,请将索引文件放在网站根目录,或修改主题js文件的path值
+# Abilita riceca
 local_search:
   # 是否启用
   enable: true
@@ -42,11 +41,11 @@ local_search:
 # 是否显示 一言(hitokoto)
 hitokoto: false
 
-# 链接(可选:facebook,twitter,github,wechat,email)
+# Link ai vari social
 links:
   facebook: https://www.facebook.com/GildaFTF/
-  twitter: https://www.facebook.com/GildaFTF/
-  github: https://www.facebook.com/GildaFTF/
+# twitter: https://www.facebook.com/GildaFTF/
+# github: https://www.facebook.com/GildaFTF/
 #  wechat: /img/logo.png
 #  email: mailto:xxxx@gmail.com
 
@@ -87,7 +86,7 @@ disqus:
   shortname: fairytailfansub
 
 # 网站关键字
-keywords: Fechin
+# keywords: Fechin
 
 # 要使用google_analytics进行统计的话，这里需要配置ID
 google_analytics: UA-42556680-3
