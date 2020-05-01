@@ -14,5 +14,4 @@ Buona visione dallo staff.
 
 **-Il Sindaco-**
 
-P.S.
-*Anche noi ci preoccupiamo per la tua sorte MirkoSP.*
+P.S. *Anche noi ci preoccupiamo per la tua sorte MirkoSP.*
