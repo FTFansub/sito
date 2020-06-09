@@ -102,7 +102,6 @@ deploy:
   repo: https://github.com/FTFansub/ftfansub.github.io
   branch: master
 
-
 # minify
 html_minifier:
   enable: true
@@ -130,3 +129,16 @@ search:
   field: post
   format: html
   limit: 10000
+
+feed:
+  type: atom
+  path: atom.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:

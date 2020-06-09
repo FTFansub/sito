@@ -2,6 +2,11 @@
 title: Dalla Russia con Amore (quasi)
 date: 2020-04-25 19:19:03
 cover: /img/ShinSakuraTaisen3.png
+categories:
+- Sakura Wars
+- E03
+tags:
+- relese
 ---
 ![Dalla Russia con Amore (quasi)](/img/ShinSakuraTaisen3.png)
 Cari amici, nuova settimana e [nuovo entusiasmante episodio](https://nyaa.si/view/1241523) delle nostre cabarettiste preferite.

@@ -1,8 +1,12 @@
 ---
 title: Sakura si fa scopare
 date: 2020-05-01 17:06:59
-tags:
 cover: /img/ShinSakuraTaisen4.png
+categories:
+- Sakura Wars
+- E04
+tags:
+- relese
 ---
 ![Sakura si fa scopare](/img/ShinSakuraTaisen4.png)
 

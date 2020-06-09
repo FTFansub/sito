@@ -2,6 +2,11 @@
 title: Quando hai il cervello di un canarino...
 date: 2020-04-12 12:18:41
 cover: /img/ShinSakuraTaisen2.png
+categories:
+- Sakura Wars
+- E02
+tags:
+- relese
 ---
 
 ![Shin Sakua Taisen](/img/ShinSakuraTaisen2.png)

@@ -1,8 +1,13 @@
 ---
 title: È gigantesco!
 date: 2020-05-10 18:00:23
-tags:
 cover: /img/ShinSakuraTaisen5.png
+categories:
+- Sakura Wars
+- E05
+tags:
+- relese
+excerpt: Cari utenti eccoci qui con il 5° episodio...
 ---
 <iframe width="560" height="315" src="https://www.youtube.com/embed/QATZIbEKwv8" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 

@@ -3,8 +3,12 @@
         <%- image_tag(post.cover || theme.cover[Math.floor(Math.random() * theme.cover.length)], {class: "cover", width: 680, height: 440}) %>
     </a>
     <div class="else">
-        <p><%- moment(post.date).format('L') %></p>
+        <p><%- moment(post.date).calendar() %></p>
         <h3><%- link_to(post.path, post.title || "Untitled", {class: "posttitle"}) %></h3>
+        <% if (post.excerpt) { %>
+        <p><%- post.excerpt %></p> 
+        <% } else { %>
         <p><%- truncate(strip_html(post.content), {length: 80, omission: '...'}) %></p>
+        <% } %>
     </div>
 </div>

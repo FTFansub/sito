@@ -2,6 +2,11 @@
 title: Il FANSUB *non* è morto
 date: 2020-04-12 00:01:00
 cover: /img/ShinSakuraTaisen1.jpg
+categories:
+- Sakura Wars
+- E01
+tags:
+- relese
 ---
 
 ![Shin Sakua Taisen](/img/ShinSakuraTaisen1.jpg)
